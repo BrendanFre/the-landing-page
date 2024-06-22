@@ -131,6 +131,10 @@ button{
     margin: 35px 0;
 }
 
+.cta-text{
+    margin: auto 5px;
+}
+
 .cta-text p{
     font-weight: 200;
     margin-top: 0px;
